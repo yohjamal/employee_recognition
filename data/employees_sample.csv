@@ -1,0 +1,11 @@
+employee_id,name,department,performance_score,peer_nominations,attendance_pct,manager_rating,months_employed,email
+E001,Sarah Kimani,Engineering,92,8,98,9,24,sarah.kimani@company.com
+E002,James Odhiambo,Sales,88,6,95,8,18,james.odhiambo@company.com
+E003,Amina Hassan,HR,75,4,92,7,12,amina.hassan@company.com
+E004,David Mutua,Engineering,95,10,99,10,36,david.mutua@company.com
+E005,Grace Wanjiku,Marketing,82,7,97,8,9,grace.wanjiku@company.com
+E006,Peter Otieno,Sales,79,3,88,6,6,peter.otieno@company.com
+E007,Linda Achieng,Finance,91,9,100,9,30,linda.achieng@company.com
+E008,Brian Mwangi,Marketing,85,5,94,8,15,brian.mwangi@company.com
+E009,Faith Njeri,HR,70,2,85,6,4,faith.njeri@company.com
+E010,Tom Kariuki,Finance,88,7,96,9,22,tom.kariuki@company.com
