@@ -134,4 +134,4 @@ A manual override / review step before publishing results is recommended.
 
 ---
 
-*Built as an HR portfolio project demonstrating people analytics, HR process design, and Python development.*
+
